@@ -1,5 +1,4 @@
-Feature: Login to e-commerce site and place four different product orders and verify
-
+Feature: Login to test script site and place four different product orders and verify after adding them to wishlist
   Scenario: Placing an order after adding to wishlist
     Given I add four different product to my wish list
     When I view my wishlist table
